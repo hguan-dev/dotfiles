@@ -25,3 +25,5 @@ export HISTSIZE=10000
 export SAVEHIST=10000
 export HISTFILE="$HOME/.zsh_history"
 
+export PS1="%B%n@%m%b %1~ %# "
+
