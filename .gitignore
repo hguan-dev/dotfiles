@@ -1,0 +1,8 @@
+# Ignore local config files
+zsh/.zshrc.local
+zsh/.zsh_history
+nvim/lazy-lock.json
+
+# Ignore system-specific files
+iterm2/sockets/
+
