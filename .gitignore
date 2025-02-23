@@ -1,3 +1,5 @@
+iterm2
+
 # Ignore local config files
 zsh/.zshrc.local
 zsh/.zsh_history
