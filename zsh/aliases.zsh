@@ -2,6 +2,7 @@
 alias ll='ls -lah'
 alias rmrf='rm -rf'
 alias mkdir='mkdir -p'
+alias cd='z'
 
 # Navigation
 alias ..='cd ..'
